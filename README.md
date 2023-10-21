@@ -1,6 +1,10 @@
-### AWS Guides
+### GyanKumbh
 
-        This repo contain quick notes and study material for AWS. I use it to quickly refresh on some topics or use it as a knowledge base for my learnings.
+        This repo contain quick notes and study material across domains. I use it to quickly refresh on some topics or use it as a knowledge base for my learnings.
+        
 #### Index :
-- [AWS Security Fundamentals (V2)](https://github.com/mrpool404/aws_guides/tree/main/AWS_SECURITY_FUNDAMENTALS_V2)
-- [AWS SOLUTIONS ARCHITECT - ASSOSIATE (SAA-C03)](https://github.com/mrpool404/aws_guides/tree/main/AWS_SOLUTIONS_ARCHITECT_ASSOSIATE)
+- Certs
+        - [AWS Security Fundamentals (V2)](https://github.com/mrpool404/aws_guides/tree/main/certs/aws/AWS_SECURITY_FUNDAMENTALS_V2)
+        - [AWS SOLUTIONS ARCHITECT - ASSOSIATE (SAA-C03)](https://github.com/mrpool404/aws_guides/tree/main/certs/aws/AWS_SOLUTIONS_ARCHITECT_ASSOSIATE)
+- Talks
+        - [AWS Naitve SIEM & OCSF](https://github.com/mrpool404/aws_guides/tree/main/talks/null/AWS Native SIEM & OCSF.pdf)

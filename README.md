@@ -8,3 +8,5 @@
   - [AWS SOLUTIONS ARCHITECT - ASSOSIATE (SAA-C03)](https://github.com/mrpool404/gyankumbha/tree/main/certs/AWS_SOLUTIONS_ARCHITECT_ASSOSIATE)
 - Talks
   - [AWS Naitve SIEM & OCSF](https://github.com/mrpool404/gyankumbha/tree/main/talks/null/AWSNativeSIEM&OCSF.pdf)
+- Conference
+  - [AWS reInforce 2025](https://github.com/mrpool404/gyankumbha/blob/main/conference/AWS_reInforce_2025.pdf)
